@@ -23,6 +23,6 @@ How to run on VSCode:
    npm install
 4. Start the server:
    npm run dev
-4. Open browser and go to: http://localhost:3000
+4. Open browser and go to localhost.
 
    
